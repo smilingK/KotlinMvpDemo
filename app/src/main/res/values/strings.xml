@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinMvpDemo</string>
+    <string name="nav_bar_home">首页</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="nav_bar_notifications">通知</string>
+    <string name="nav_bar_category">分类</string>
+    <string name="nav_bar_shopping_cart">购物车</string>
+    <string name="nav_bar_my">我的</string>
+    <string name="un_login_text">登录/注册</string>
+
+</resources>

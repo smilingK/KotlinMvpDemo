@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UserCenter</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_mobile_number">手机号</string>
+    <string name="prompt_password">密码)</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">此电子邮件地址无效。</string>
+    <string name="error_invalid_password">这个密码太短了。</string>
+    <string name="error_incorrect_password">这个密码是不正确的</string>
+    <string name="error_field_required">这个字段是必需的</string>
+    <string name="permission_rationale">"需要联系人权限来提供电子邮件的完成。"</string>
+    <string name="register">注册</string>
+    <string name="Please_enter_your_mobile_number">请输入手机号码</string>
+    <string name="getCode">获取验证码</string>
+    <string name="Please_enter_SMS_verification_code">请输入短信验证码</string>
+    <string name="Please_enter_your_password">请输入密码（6-20位字母或数字）</string>
+    <string name="Please_enter_your_password_again">请再次输入密码</string>
+    <string name="Two_passwords_inconsistent">两次密码不一致！</string>
+    <string name="Forget_your_password">忘记密码？</string>
+    <string name="Register_successfully">注册成功!</string>
+    <string name="common_save">保存</string>
+    <string name="user_info">个人信息</string>
+    <string name="head_portrait">头像</string>
+    <string name="nickname">昵称</string>
+    <string name="Please_call_me">请称呼我</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="woman">女</string>
+    <string name="signature">签名</string>
+    <string name="Please_fill_in_your_signature">请您填写签名</string>
+    <string name="modify_successfully">修改成功！</string>
+</resources>

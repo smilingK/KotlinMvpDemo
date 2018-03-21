@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    style="@style/MatchMatch.Vertical">
+
+    <FrameLayout
+        android:id="@+id/mContainer"
+        style="@style/MatchAuto"/>
+
+    <com.chunze.kotlinmvpdemo.widgets.BottomNavBar
+        android:id="@+id/mBottomNavBar"
+        style="@style/MatchWrap">
+    </com.chunze.kotlinmvpdemo.widgets.BottomNavBar>
+</LinearLayout>

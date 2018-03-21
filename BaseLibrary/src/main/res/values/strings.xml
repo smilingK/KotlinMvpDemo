@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="data_exception">数据异常！</string>
+</resources>
